@@ -11,5 +11,3 @@ On the screen, we will display: the score, the comment, and the suggestion to ha
 	
 ## Setup
 + Run this code on Jupyter Notebook.
-+ Demo video:
-https://www.youtube.com/watch?v=_fEZVHPAfs0&t=3s?width=200&height=200
